@@ -1,0 +1,8 @@
+spring:
+  application:
+    admin:
+      enabled:
+        true
+      jmx-name:
+        org.springframework.boot:type=Admin,name=HW3
+locale: en
